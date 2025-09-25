@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping ext="dol" type="AUTO_DETECTED" />
+      <mapping ext="j2" type="HTML" />
+      <hashBang value="*.j2" type="HTML" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="designer.exe - Shortcut.lnk" type="PLAIN_TEXT" />
+      <mapping ext="mq5" type="PLAIN_TEXT" />
+      <mapping ext="bat" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <removed_mapping ext="j2" approved="true" type="OrchideJinja2" />
+      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>
